@@ -6,7 +6,6 @@
 {% for link in site.data.publications.main %}
 
 <b><i style="color:#002D72">* Equal contribution, # Corresponding author</i></b>
-<br><br>
 
 <li>
 <div class="pub-row">
