@@ -1,17 +1,27 @@
 main:
 
-  - title: "Traj-mae: Masked autoencoders for trajectory prediction"
-    authors: <strong>Hao Chen*</strong>, Jiaze Wang*, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
-    conference: ICCV 2023
-    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf
-    image: ./assets/img/traj-mae.png
+  - title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
+    authors:  <strong>Hao Chen*</strong>, Jiaming Liu*, Chenyang Gu*, Zhuoyang Liu*, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng
+    conference: ArXiv 2025
+    pdf: https://arxiv.org/pdf/2506.01953
+    code: https://github.com/CHEN-H01/Fast-in-Slow
+    page: https://fast-in-slow.github.io/
+    image: ./assets/img/fisvla.png
 
   - title: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model"
     authors: Jiaming Liu*, <strong>Hao Chen*</strong>, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang
     conference: ArXiv 2025
     pdf: https://arxiv.org/pdf/2503.10631?
     code: https://github.com/PKU-HMI-Lab/Hybrid-VLA
+    page: https://hybrid-vla.github.io/
     image: ./assets/img/hybridvla.png
+
+  - title: "EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights"
+    authors: Zhenghao Xing*, Hao Chen*, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+    conference: CVPR 2025
+    pdf: https://chen-h01.github.io/
+    code: https://github.com/HarryHsing/EchoTraffic
+    image: ./assets/img/echotraffic.png
 
   - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
     authors: Ziyu Guo*, Ray Zhang*, <strong>Hao Chen*</strong>, Jialin* Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng
@@ -19,3 +29,15 @@ main:
     pdf: https://arxiv.org/pdf/2503.10627?
     page: https://sciverse-cuhk.github.io/
     image: ./assets/img/sciverse.png
+
+  - title: "SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning"
+    authors: <strong>Hao Chen*</strong>, Jiaze Wang*, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
+    conference: BMVC 2024
+    pdf: https://arxiv.org/pdf/2401.11847
+    image: ./assets/img/signvtcl.png
+
+  - title: "Traj-mae: Masked autoencoders for trajectory prediction"
+    authors: <strong>Hao Chen*</strong>, Jiaze Wang*, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
+    conference: ICCV 2023
+    pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf
+    image: ./assets/img/traj-mae.png
