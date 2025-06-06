@@ -11,4 +11,4 @@ My research interests mainly include <b><i style="color:#002D72">Embodied AI, La
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/award.md %}
