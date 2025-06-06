@@ -40,4 +40,5 @@ main:
     authors: "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaze Wang*, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng"
     conference: ICCV 2023
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf
+    page: https://jiazewang.com/projects/trajmae.html
     image: ./assets/img/traj-mae.png
