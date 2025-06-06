@@ -1,6 +1,6 @@
 main:
 
-  - title: Traj-mae: "Masked autoencoders for trajectory prediction"
+  - title: "Traj-mae: Masked autoencoders for trajectory prediction"
     authors: <strong>Hao Chen*</strong>, Jiaze Wang*, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng
     conference: ICCV 2023
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf
