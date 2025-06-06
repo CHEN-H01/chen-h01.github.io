@@ -12,3 +12,10 @@ main:
     pdf: https://arxiv.org/pdf/2503.10631?
     code: https://github.com/PKU-HMI-Lab/Hybrid-VLA
     image: ./assets/img/hybridvla.png
+
+  - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
+    authors: Ziyu Guo*, Ray Zhang*, <strong>Hao Chen*</strong>, Jialin* Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng
+    conference: ACL Findings 2025
+    pdf: https://arxiv.org/pdf/2503.10627?
+    page: https://sciverse-cuhk.github.io/
+    image: ./assets/img/sciverse.png
