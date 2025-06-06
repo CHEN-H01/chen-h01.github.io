@@ -167,13 +167,19 @@ papertitle {
         display: none;
       }
 
+      // .image.avatar img {
+      //   border-radius: 100%;
+      //   width: 45%;
+      //   padding: 20px;
+      //   // border: 1px solid #ddd;
+      //   // padding: 3px;
+      //   // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+      // }
       .image.avatar img {
-        border-radius: 100%;
+        border-radius: 16px;  /* ✅ 改这里，改成你想要的圆角大小 */
         width: 45%;
         padding: 20px;
-        // border: 1px solid #ddd;
-        // padding: 3px;
-        // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
+        object-fit: cover;    /* ✅ 确保不会被压扁或拉伸 */
       }
 
     #header .image.avatar {
@@ -419,11 +425,17 @@ footer {
   }
 
 
-   .image.avatar img {
-        border-radius: 100%;
-        width: 117px;
-        padding:20px;
-      }
+  //  .image.avatar img {
+  //       border-radius: 100%;
+  //       width: 117px;
+  //       padding:20px;
+  //     }
+  .image.avatar img {
+    border-radius: 16px;
+    width: 117px;
+    padding: 20px;
+    object-fit: cover;
+  }
   #head1o2 {
     visibility: hidden;
   }
