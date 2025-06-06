@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px 15px;">Selected Publications</h2>
 
 <b><i style="color:#002D72">* Equal contribution, # Corresponding author</i></b>
 
