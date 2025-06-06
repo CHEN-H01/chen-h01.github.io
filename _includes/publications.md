@@ -1,11 +1,11 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
+<b><i style="color:#002D72">* Equal contribution, # Corresponding author</i></b>
+
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
-
-<b><i style="color:#002D72">* Equal contribution, # Corresponding author</i></b>
 
 <li>
 <div class="pub-row">
