@@ -2,7 +2,7 @@ main:
 
   - title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
     authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*, Chenyang Gu*, Zhuoyang Liu*, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang#, Pheng-Ann Heng"
-    conference: ArXiv 2025
+    conference: NeurIPS 2025
     pdf: https://arxiv.org/pdf/2506.01953
     code: https://github.com/CHEN-H01/Fast-in-Slow
     page: https://fast-in-slow.github.io/
