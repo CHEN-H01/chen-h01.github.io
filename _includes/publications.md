@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px 15px;">Selected Publications</h2>
 
-<b><i style="color:#002D72; margin: 0px 0px -10px">* Equal contribution, # Corresponding author</i></b>
+<b><i style="color:#002D72; margin: 0px 0px -10px">* Equal contribution, † Project leader,  # Corresponding author</i></b>
 
 <div class="publications">
 <ol class="bibliography">
