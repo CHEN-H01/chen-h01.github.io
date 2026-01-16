@@ -1,4 +1,12 @@
 main:
+  - title: "LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model"
+    authors:  "Zhuoyang Liu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang#"
+    conference: ArXiv 2026
+    pdf: https://arxiv.org/abs/2601.05248
+    code: https://sites.google.com/view/last0
+    page: https://sites.google.com/view/last0
+    image: ./assets/img/last0.png
+
   - title: "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation"
     authors:  "Chenyang Gu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Runzhong Huang*, Qingpo Wuwu, Zhuoyang Liu, Xiaoqi Li, Ying Li, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
     conference: ArXiv 2025
