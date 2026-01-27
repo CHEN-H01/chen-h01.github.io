@@ -15,6 +15,14 @@ main:
     page: https://sites.google.com/view/maunalvla/
     image: ./assets/img/manualvla.png
 
+  - title: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model"
+    authors: "Jiaming Liu*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang#"
+    conference: ICLR 2026
+    pdf: https://arxiv.org/pdf/2503.10631?
+    code: https://github.com/PKU-HMI-Lab/Hybrid-VLA
+    page: https://hybrid-vla.github.io/
+    image: ./assets/img/hybridvla.png
+
   - title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
     authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*, Chenyang Gu*, Zhuoyang Liu*, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang#, Pheng-Ann Heng"
     conference: NeurIPS 2025
@@ -22,14 +30,6 @@ main:
     code: https://github.com/CHEN-H01/Fast-in-Slow
     page: https://fast-in-slow.github.io/
     image: ./assets/img/fisvla.png
-
-  - title: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model"
-    authors: "Jiaming Liu*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: ArXiv 2025
-    pdf: https://arxiv.org/pdf/2503.10631?
-    code: https://github.com/PKU-HMI-Lab/Hybrid-VLA
-    page: https://hybrid-vla.github.io/
-    image: ./assets/img/hybridvla.png
 
   - title: "EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights"
     authors: "Zhenghao Xing*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu#, Pheng-Ann Heng"
