@@ -9,7 +9,7 @@ main:
 
   - title: "LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model"
     authors:  "Zhuoyang Liu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: ArXiv 2026
+    conference: ICML 2026 \textcolor[HTML]{B11F3A}{(Spotlight)}
     pdf: https://arxiv.org/abs/2601.05248
     code: https://github.com/ZhuoyangLiu2005/last0
     page: https://vla-last0.github.io/
