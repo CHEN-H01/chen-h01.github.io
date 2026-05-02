@@ -1,7 +1,7 @@
 main:
   - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
     authors:  "Yulin Luo*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Zhuangzhe Wu*, Bowen Sui*, Jiaming Liu*†, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: ArXiv 2026
+    conference: "ArXiv 2026"
     pdf: https://arxiv.org/abs/2603.15618
     code: https://deepvision-vla.github.io/
     page: https://deepvision-vla.github.io/
@@ -9,12 +9,12 @@ main:
 
   - title: "LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model"
     authors:  "Zhuoyang Liu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: ICML 2026 \textcolor[HTML]{B11F3A}{(Spotlight)}
+    conference: "ICML 2026 <strong style='color: #B11F3A;'>(Spotlight)</strong>"
     pdf: https://arxiv.org/abs/2601.05248
     code: https://github.com/ZhuoyangLiu2005/last0
     page: https://vla-last0.github.io/
     image: ./assets/img/last0.png
-
+    
   - title: "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation"
     authors:  "Chenyang Gu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Runzhong Huang*, Qingpo Wuwu, Zhuoyang Liu, Xiaoqi Li, Ying Li, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
     conference: CVPR 2026
