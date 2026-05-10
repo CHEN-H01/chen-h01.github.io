@@ -1,6 +1,6 @@
 main:
   - title: "LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning"
-    authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*†, Zhonghao Yan*, Nuowei Han*, Renrui Zhang*†, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Shanghang Zhang#, Pheng-Ann Heng"
+    authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*†, Zhonghao Yan*, Nuowei Han*, Renrui Zhang†, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Shanghang Zhang#, Pheng-Ann Heng"
     conference: "ArXiv 2026"
     pdf: https://arxiv.org/pdf/2604.28192
     code: https://github.com/CHEN-H01/LaST-R1
