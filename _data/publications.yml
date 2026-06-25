@@ -1,75 +1,79 @@
 main:
+  - title: "LaST-HD: Learning Latent Physical Reasoning from Human Data for Robot Manipulation"
+    authors: "Jiaming Liu*†, Yinxi Wang*, Chenyang Gu*, Siyuan Qian*, Xiangju Mi*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen†</strong>, Jiawei Chen, Qingpo Wuwu, Xiaoqi Li, Nuowei Han, Yiming Zhang, Xuheng Zhang, Yang Yue, Yeqing Yang, Lei Wang, Peng Jia, Hao Tang, Shanghang Zhang#"
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
+    pdf: https://arxiv.org/pdf/2606.23685
+    code: https://siriyep.github.io/last-hd-project-page/
+    page: https://siriyep.github.io/last-hd-project-page/
+
   - title: "LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning"
     authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*†, Zhonghao Yan*, Nuowei Han*, Renrui Zhang†, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Shanghang Zhang#, Pheng-Ann Heng"
-    conference: "ArXiv 2026"
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/pdf/2604.28192
     code: https://github.com/CHEN-H01/LaST-R1
     page: https://siriyep.github.io/last-r1/
-    image: ./assets/img/last-r1.png
 
+  - title: "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation"
+    authors: "Jiaming Liu*, Qingpo Wuwu*, Nuowei Han*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang#"
+    conference: "<strong style='color: #B11F3A;'>In Submission to TPAMI 2026</strong>"
+    pdf: https://lift3dvla.github.io/
+    code: https://lift3dvla.github.io/
+    page: https://lift3dvla.github.io/
+    
   - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
     authors:  "Yulin Luo*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Zhuangzhe Wu*, Bowen Sui*, Jiaming Liu*†, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: "ArXiv 2026"
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/abs/2603.15618
     code: https://deepvision-vla.github.io/
     page: https://deepvision-vla.github.io/
-    image: ./assets/img/deepvision-vla.png
 
   - title: "LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model"
     authors:  "Zhuoyang Liu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: "ICML 2026 <strong style='color: #B11F3A;'>(Spotlight)</strong>"
+    conference: "<strong style='color: #B11F3A;'>ICML 2026</strong> <strong style='color: #B11F3A;'>(Spotlight)</strong>"
     pdf: https://arxiv.org/abs/2601.05248
     code: https://github.com/ZhuoyangLiu2005/last0
     page: https://vla-last0.github.io/
-    image: ./assets/img/last0.png
     
   - title: "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation"
     authors:  "Chenyang Gu*, Jiaming Liu*†, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Runzhong Huang*, Qingpo Wuwu, Zhuoyang Liu, Xiaoqi Li, Ying Li, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: CVPR 2026
+    conference: "<strong style='color: #B11F3A;'>CVPR 2026</strong>"
     pdf: https://arxiv.org/abs/2512.02013
     code: https://sites.google.com/view/maunalvla/
     page: https://sites.google.com/view/maunalvla/
-    image: ./assets/img/manualvla.png
 
   - title: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model"
     authors: "Jiaming Liu*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: ICLR 2026
+    conference: "<strong style='color: #B11F3A;'>ICLR 2026</strong>"
     pdf: https://arxiv.org/pdf/2503.10631?
     code: https://github.com/PKU-HMI-Lab/Hybrid-VLA
     page: https://hybrid-vla.github.io/
-    image: ./assets/img/hybridvla.png
 
   - title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
     authors:  "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaming Liu*, Chenyang Gu*, Zhuoyang Liu*, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang#, Pheng-Ann Heng"
-    conference: NeurIPS 2025
+    conference: "<strong style='color: #B11F3A;'>NeurIPS 2025</strong>"
     pdf: https://arxiv.org/pdf/2506.01953
     code: https://github.com/CHEN-H01/Fast-in-Slow
     page: https://fast-in-slow.github.io/
-    image: ./assets/img/fisvla.png
 
   - title: "EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights"
     authors: "Zhenghao Xing*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu#, Pheng-Ann Heng"
-    conference: CVPR 2025
+    conference: "<strong style='color: #B11F3A;'>CVPR 2025</strong>"
     pdf: https://chen-h01.github.io/
     code: https://github.com/HarryHsing/EchoTraffic
-    image: ./assets/img/echotraffic.png
 
   - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
     authors: "Ziyu Guo*, Ray Zhang*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jialin* Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng#"
-    conference: ACL Findings 2025
+    conference: "<strong style='color: #B11F3A;'>ACL Findings 2025</strong>"
     pdf: https://arxiv.org/pdf/2503.10627?
     page: https://sciverse-cuhk.github.io/
-    image: ./assets/img/sciverse.png
 
   - title: "SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning"
     authors: "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaze Wang*, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen#, Pheng-Ann Heng"
-    conference: BMVC 2024
+    conference: "<strong style='color: #B11F3A;'>BMVC 2024</strong>"
     pdf: https://arxiv.org/pdf/2401.11847
-    image: ./assets/img/signvtcl.png
 
   - title: "Traj-mae: Masked autoencoders for trajectory prediction"
     authors: "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jiaze Wang*, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen#, Pheng-Ann Heng"
-    conference: ICCV 2023
+    conference: "<strong style='color: #B11F3A;'>ICCV 2023</strong>"
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf
     page: https://jiazewang.com/projects/trajmae.html
-    image: ./assets/img/traj-mae.png
