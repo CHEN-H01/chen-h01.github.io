@@ -15,14 +15,14 @@ main:
 
   - title: "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation"
     authors: "Jiaming Liu*, Qingpo Wuwu*, Nuowei Han*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang#"
-    conference: "<strong style='color: #B11F3A;'>In Submission to TPAMI 2026</strong>"
-    pdf: https://lift3dvla.github.io/
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
+    pdf: https://arxiv.org/pdf/2607.06564
     code: https://lift3dvla.github.io/
     page: https://lift3dvla.github.io/
     
   - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
     authors:  "Yulin Luo*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Zhuangzhe Wu*, Bowen Sui*, Jiaming Liu*†, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang#"
-    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
+    conference: "<strong style='color: #B11F3A;'>ACMMM 2026</strong>"
     pdf: https://arxiv.org/abs/2603.15618
     code: https://deepvision-vla.github.io/
     page: https://deepvision-vla.github.io/
