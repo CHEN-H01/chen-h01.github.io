@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px 15px;">Selected Publications</h2>
 
-<b><i style="color:#002D72; margin: 0px 0px -10px">* Equal contribution, † Project leader,  # Corresponding author</i></b>
+<b style="color:#002D72; margin: 0px 0px -10px">* Equal contribution, † Project leader</b>
 
 <div class="publications">
 <ol class="bibliography">
@@ -8,6 +8,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
+  <span class="publication-number">{{ forloop.index }}.</span>
   <article class="pub-card">
     <div class="title">
       {% if link.pdf %}
