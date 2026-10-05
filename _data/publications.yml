@@ -63,7 +63,7 @@ main:
 
   - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
     authors: "Ziyu Guo*, Ray Zhang*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*</strong>, Jialin* Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng"
-    conference: "<strong style='color: #B11F3A;'>ACL Findings 2025</strong>"
+    conference: "<strong style='color: #B11F3A;'>ACL 2025</strong>"
     pdf: https://arxiv.org/pdf/2503.10627?
     page: https://sciverse-cuhk.github.io/
 
