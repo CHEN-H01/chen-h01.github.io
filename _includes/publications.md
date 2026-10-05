@@ -8,14 +8,16 @@
 {% for link in site.data.publications.main %}
 
 <li>
-  <span class="publication-number">{{ forloop.index }}.</span>
   <article class="pub-card">
     <div class="title">
+      <span class="publication-number">{{ forloop.index }}.</span>
+      <span class="publication-title-text">
       {% if link.pdf %}
       <a href="{{ link.pdf }}" target="_blank" rel="noopener noreferrer">{{ link.title }}</a>
       {% else %}
       {{ link.title }}
       {% endif %}
+      </span>
     </div>
     <div class="author">{{ link.authors }}</div>
     <div class="periodical"><em>{{ link.conference }}</em></div>
