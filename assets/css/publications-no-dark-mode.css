@@ -50,7 +50,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications .publication-number {
     flex: 0 0 1.75rem;
-    transform: translateX(-0.5rem);
+    transform: translateX(-0.9rem);
     color: var(--global-theme-color);
     font-weight: 700;
     text-align: right;
@@ -145,7 +145,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
     .publications .publication-number {
         flex-basis: 1.25rem;
-        transform: translateX(-0.35rem);
+        transform: translateX(-0.65rem);
     }
 
     .publications ol.bibliography li .title {
