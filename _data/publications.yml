@@ -1,4 +1,14 @@
 main:
+  - title: "LaST1.0: A Unified Latent World-Action Model with Control-Centric SpatioTemporal Reasoning"
+    authors: "<strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Xuheng Zhang*, Zhuangzhe Wu*, Jiaming Liu, Shaobo Zhang, Jialin Gao, Zhonghao Yan, Di Wu, Sixiang Chen, Peng Jia, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng"
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
+    pdf: https://arxiv.org/pdf/2611.23974v1
+
+  - title: "LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning"
+    authors: "Xuheng Zhang*, Yiming Zhang*, Jialin Gao*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen*†</strong>, Jiaming Liu*†, Ji Li*, Runzhong Huang, Yinxi Wang, Chenyang Gu, Zihan Yang, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang"
+    conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
+    pdf: https://arxiv.org/pdf/2611.14048
+
   - title: "LaST-HD: Learning Latent Physical Reasoning from Human Data for Robot Manipulation"
     authors: "Jiaming Liu*†, Yinxi Wang*, Chenyang Gu*, Siyuan Qian*, Xiangju Mi*, <strong style='color: #002D72; font-weight: 900; text-decoration: underline'>Hao Chen†</strong>, Jiawei Chen, Qingpo Wuwu, Xiaoqi Li, Nuowei Han, Yiming Zhang, Xuheng Zhang, Yang Yue, Yeqing Yang, Lei Wang, Peng Jia, Hao Tang, Shanghang Zhang"
     conference: "<strong style='color: #B11F3A;'>ArXiv 2026</strong>"
