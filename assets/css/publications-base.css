@@ -34,7 +34,7 @@
 
 .publications .pub-card {
     display: grid;
-    grid-template-columns: minmax(0, var(--pub-image-width, 34%)) minmax(0, 1fr);
+    grid-template-columns: minmax(0, 36%) minmax(0, 1fr);
     align-items: center;
     gap: 1.35rem;
     padding: 1.2rem;
@@ -55,8 +55,11 @@
 
 .publications .publication-image img {
     display: block;
-    width: 100%;
+    width: auto;
+    max-width: 100%;
     height: auto;
+    max-height: 8.25rem;
+    margin: 0 auto;
 }
 
 .publications .publication-content {
