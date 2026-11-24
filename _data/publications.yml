@@ -139,8 +139,8 @@ main:
 
   - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
     image: /assets/img/publications/sciverse-teaser.webp
-    image_width: 863
-    image_height: 763
+    image_width: 985
+    image_height: 605
     image_alt: "SciVerse teaser showing five scientific problem versions and the scientific chain-of-thought evaluation strategy."
     image_source: "https://arxiv.org/html/2503.10627v1/Intro_v5.png"
     image_figure: "Figure 1"
@@ -162,8 +162,8 @@ main:
 
   - title: "Traj-mae: Masked autoencoders for trajectory prediction"
     image: /assets/img/publications/traj-mae-teaser.webp
-    image_width: 1153
-    image_height: 1440
+    image_width: 2440
+    image_height: 758
     image_alt: "Traj-MAE teaser illustrating trajectory and map masking and reconstruction for trajectory prediction."
     image_source: "https://arxiv.org/html/2303.06697v1/teaser.png"
     image_figure: "Figure 1"
