@@ -1,27 +1,36 @@
 main:
   - title: "LaST1.0: A Unified Latent World-Action Model with Control-Centric SpatioTemporal Reasoning"
-    image: /assets/img/publications/last1.webp
-    image_width: 960
-    image_height: 243
-    image_alt: "LaST1.0 design overview and benchmark results."
+    image: /assets/img/publications/last1-method.webp
+    image_width: 1440
+    image_height: 508
+    image_column_width: 39.8
+    image_alt: "LaST1.0 unified latent world-action model architecture and LaST-Attention."
+    image_source: "https://arxiv.org/html/2611.23974v1/method.png"
+    image_figure: "Figure 2"
     authors: "<strong class='author-self'>Hao Chen</strong>, Xuheng Zhang, Zhuangzhe Wu, Jiaming Liu, Shaobo Zhang, Jialin Gao, Zhonghao Yan, Di Wu, Sixiang Chen, Peng Jia, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/pdf/2611.23974v1
 
   - title: "LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning"
-    image: /assets/img/publications/last05.webp
-    image_width: 960
-    image_height: 328
-    image_alt: "LaST0.5 interaction-centric latent reasoning overview."
+    image: /assets/img/publications/last05-method.webp
+    image_width: 1375
+    image_height: 607
+    image_column_width: 35.9
+    image_alt: "LaST0.5 world, latent and action experts with adaptive world-to-action transfer."
+    image_source: "https://arxiv.org/html/2611.14048v1/method.png"
+    image_figure: "Figure 2"
     authors: "Xuheng Zhang*, Yiming Zhang*, Jialin Gao*, <strong class='author-self'>Hao Chen*†</strong>, Jiaming Liu*†, Ji Li*, Runzhong Huang, Yinxi Wang, Chenyang Gu, Zihan Yang, Yaowei Liu, Zhonghao Yan, Ziyu Guo, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/pdf/2611.14048
 
   - title: "LaST-HD: Learning Latent Physical Reasoning from Human Data for Robot Manipulation"
-    image: /assets/img/publications/last-hd.webp
-    image_width: 960
-    image_height: 395
-    image_alt: "LaST-HD human-to-robot learning overview."
+    image: /assets/img/publications/last-hd-method.webp
+    image_width: 1440
+    image_height: 623
+    image_column_width: 36.2
+    image_alt: "LaST-HD framework with action-conditioned world modeling and mixed-to-human training."
+    image_source: "https://arxiv.org/html/2606.23685v1/Method_V2.png"
+    image_figure: "Figure 2"
     authors: "Jiaming Liu*†, Yinxi Wang*, Chenyang Gu*, Siyuan Qian*, Xiangju Mi*, <strong class='author-self'>Hao Chen†</strong>, Jiawei Chen, Qingpo Wuwu, Xiaoqi Li, Nuowei Han, Yiming Zhang, Xuheng Zhang, Yang Yue, Yeqing Yang, Lei Wang, Peng Jia, Hao Tang, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/pdf/2606.23685
@@ -29,10 +38,13 @@ main:
     page: https://siriyep.github.io/last-hd-project-page/
 
   - title: "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation"
-    image: /assets/img/publications/lift3d-vla.webp
-    image_width: 960
-    image_height: 409
-    image_alt: "Lift3D-VLA geometry and dynamics-aware manipulation overview."
+    image: /assets/img/publications/lift3d-vla-method.webp
+    image_width: 1385
+    image_height: 564
+    image_column_width: 37.2
+    image_alt: "Lift3D-VLA framework with geometry-centric pretraining and temporal action modeling."
+    image_source: "https://arxiv.org/html/2607.06564v1/2_main_pipeline.png"
+    image_figure: "Figure 2"
     authors: "Jiaming Liu*, Qingpo Wuwu*, Nuowei Han*, <strong class='author-self'>Hao Chen*</strong>, Zhuoyang Liu, Fan Fei, Yueru Jia, Chenyang Gu, Yandong Guo, Boxin Shi, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ArXiv 2026</strong>"
     pdf: https://arxiv.org/pdf/2607.06564
@@ -40,10 +52,13 @@ main:
     page: https://lift3dvla.github.io/
 
   - title: "LaST-R1: Reinforcing Robotic Manipulation via Adaptive Physical Latent Reasoning"
-    image: /assets/img/publications/last-r1.webp
-    image_width: 960
-    image_height: 427
-    image_alt: "LaST-R1 adaptive physical latent reasoning framework."
+    image: /assets/img/publications/last-r1-method.webp
+    image_width: 1440
+    image_height: 640
+    image_column_width: 35.8
+    image_alt: "LaST-R1 model architecture and LAPO reinforcement learning with adaptive latent reasoning."
+    image_source: "https://arxiv.org/html/2604.28192v3/method.png"
+    image_figure: "Figure 2"
     authors:  "<strong class='author-self'>Hao Chen</strong>, Jiaming Liu, Zhonghao Yan, Nuowei Han, Renrui Zhang, Chenyang Gu, Jialin Gao, Ziyu Guo, Siyuan Qian, Yinxi Wang, Peng Jia, Shanghang Zhang, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>NeurIPS 2026</strong>"
     pdf: https://arxiv.org/pdf/2604.28192
@@ -51,10 +66,13 @@ main:
     page: https://siriyep.github.io/last-r1/
     
   - title: "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models"
-    image: /assets/img/publications/deepvision-vla.webp
-    image_width: 960
-    image_height: 496
-    image_alt: "DeepVision-VLA architecture and visual processing framework."
+    image: /assets/img/publications/deepvision-vla-method.webp
+    image_width: 1440
+    image_height: 741
+    image_column_width: 33.6
+    image_alt: "DeepVision-VLA architecture with vision-language shared attention and visual token pruning."
+    image_source: "https://arxiv.org/html/2603.15618v2/3_method.png"
+    image_figure: "Figure 3"
     authors:  "Yulin Luo*, <strong class='author-self'>Hao Chen*†</strong>, Zhuangzhe Wu*, Bowen Sui*, Jiaming Liu*†, Chenyang Gu, Zhuoyang Liu, Qiuxuan Feng, Jiale Yu, Shuo Gu, Peng Jia, Pheng-Ann Heng, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ACMMM 2026</strong>"
     pdf: https://arxiv.org/abs/2603.15618
@@ -62,10 +80,13 @@ main:
     page: https://deepvision-vla.github.io/
 
   - title: "LaST0: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model"
-    image: /assets/img/publications/last0.webp
-    image_width: 960
-    image_height: 332
-    image_alt: "LaST0 latent spatio-temporal reasoning framework."
+    image: /assets/img/publications/last0-method.webp
+    image_width: 1440
+    image_height: 531
+    image_column_width: 39.0
+    image_alt: "LaST0 dual-system architecture and spatio-temporal latent reasoning supervision."
+    image_source: "https://arxiv.org/html/2601.05248v4/method_V3.png"
+    image_figure: "Figure 2"
     authors:  "Zhuoyang Liu*, Jiaming Liu*†, <strong class='author-self'>Hao Chen*</strong>, Ziyu Guo, Chengkai Hou, Chenyang Gu, Jiale Yu, Xiangju Mi, Renrui Zhang, Zhengping Che, Jian Tang, Pheng-Ann Heng, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ICML 2026</strong> <strong class='publication-venue'>(Spotlight)</strong>"
     pdf: https://arxiv.org/abs/2601.05248
@@ -73,10 +94,13 @@ main:
     page: https://vla-last0.github.io/
     
   - title: "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation"
-    image: /assets/img/publications/manualvla.webp
-    image_width: 960
-    image_height: 398
-    image_alt: "ManualVLA manual generation and robotic manipulation framework."
+    image: /assets/img/publications/manualvla-method.webp
+    image_width: 1385
+    image_height: 579
+    image_column_width: 36.7
+    image_alt: "ManualVLA planning and action experts with cross-task shared attention."
+    image_source: "https://arxiv.org/html/2512.02013v1/method.png"
+    image_figure: "Figure 2"
     authors:  "Chenyang Gu*, Jiaming Liu*†, <strong class='author-self'>Hao Chen*†</strong>, Runzhong Huang*, Qingpo Wuwu, Zhuoyang Liu, Xiaoqi Li, Ying Li, Renrui Zhang, Peng Jia, Pheng-Ann Heng, Shanghang Zhang"
     conference: "<strong class='publication-venue'>CVPR 2026</strong>"
     pdf: https://arxiv.org/abs/2512.02013
@@ -84,10 +108,13 @@ main:
     page: https://sites.google.com/view/maunalvla/
 
   - title: "HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model"
-    image: /assets/img/publications/hybridvla.webp
-    image_width: 960
-    image_height: 379
-    image_alt: "HybridVLA diffusion and autoregression framework."
+    image: /assets/img/publications/hybridvla-method.webp
+    image_width: 1212
+    image_height: 582
+    image_column_width: 34.6
+    image_alt: "HybridVLA unified diffusion and autoregressive action generation framework."
+    image_source: "https://arxiv.org/html/2503.10631v3/hybrid_method_hao_v3.png"
+    image_figure: "Figure 2"
     authors: "Jiaming Liu*, <strong class='author-self'>Hao Chen*</strong>, Pengju An, Zhuoyang Liu, Renrui Zhang, Chenyang Gu, Xiaoqi Li, Ziyu Guo, Sixiang Chen, Mengzhen Liu, Chengkai Hou, Mengdi Zhao, KC Zhou, Pheng-Ann Heng, Shanghang Zhang"
     conference: "<strong class='publication-venue'>ICLR 2026</strong>"
     pdf: https://arxiv.org/pdf/2503.10631?
@@ -95,10 +122,13 @@ main:
     page: https://hybrid-vla.github.io/
 
   - title: "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning"
-    image: /assets/img/publications/fisvla.webp
-    image_width: 960
-    image_height: 316
-    image_alt: "Fast-in-Slow dual-system robotic manipulation overview."
+    image: /assets/img/publications/fisvla-method.webp
+    image_width: 1313
+    image_height: 553
+    image_column_width: 36.6
+    image_alt: "Fast-in-Slow dual-system architecture with low-frequency reasoning and high-frequency actions."
+    image_source: "https://arxiv.org/html/2506.01953v1/method_fig.png"
+    image_figure: "Figure 2"
     authors:  "<strong class='author-self'>Hao Chen</strong>, Jiaming Liu, Chenyang Gu, Zhuoyang Liu, Renrui Zhang, Xiaoqi Li, Xiao He, Yandong Guo, Chi-Wing Fu, Shanghang Zhang, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>NeurIPS 2025</strong>"
     pdf: https://arxiv.org/pdf/2506.01953
@@ -106,39 +136,51 @@ main:
     page: https://fast-in-slow.github.io/
 
   - title: "EchoTraffic: Enhancing Traffic Anomaly Understanding with Audio-Visual Insights"
-    image: /assets/img/publications/echotraffic.webp
-    image_width: 697
-    image_height: 960
-    image_alt: "EchoTraffic audio-visual traffic anomaly understanding example."
+    image: /assets/img/publications/echotraffic-method.webp
+    image_width: 1440
+    image_height: 662
+    image_column_width: 35.2
+    image_alt: "EchoTraffic audio-insight frame selection, multimodal encoding and dynamic fusion architecture."
+    image_source: "https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf#page=5"
+    image_figure: "Figure 4"
     authors: "Zhenghao Xing*, <strong class='author-self'>Hao Chen*</strong>, Binzhu Xie, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>CVPR 2025</strong>"
     pdf: https://chen-h01.github.io/
     code: https://github.com/HarryHsing/EchoTraffic
 
   - title: "SciVerse: Unveiling the Knowledge Comprehension and Visual Reasoning of LMMs on Multi-modal Scientific Problems"
-    image: /assets/img/publications/sciverse.webp
-    image_width: 960
-    image_height: 865
-    image_alt: "SciVerse scientific knowledge and multimodal reasoning examples."
+    image: /assets/img/publications/sciverse-method.webp
+    image_width: 990
+    image_height: 930
+    image_column_width: 27.5
+    image_alt: "SciVerse scientific chain-of-thought evaluation with step categorization and step-wise assessment."
+    image_source: "https://arxiv.org/html/2503.10627v1/CoT_v2.png"
+    image_figure: "Figure 4"
     authors: "Ziyu Guo*, Ray Zhang*, <strong class='author-self'>Hao Chen*</strong>, Jialin* Gao*, Dongzhi Jiang, Jiaze Wang, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>ACL 2025</strong>"
     pdf: https://arxiv.org/pdf/2503.10627?
     page: https://sciverse-cuhk.github.io/
 
   - title: "SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning"
-    image: /assets/img/publications/signvtcl.webp
-    image_width: 548
-    image_height: 380
-    image_alt: "SignVTCL visual-textual contrastive learning architecture."
+    image: /assets/img/publications/signvtcl-method.webp
+    image_width: 1440
+    image_height: 644
+    image_column_width: 35.7
+    image_alt: "SignVTCL training and inference pipeline with visual-textual contrastive alignment."
+    image_source: "https://arxiv.org/html/2401.11847v1/figure_2.png"
+    image_figure: "Figure 2"
     authors: "<strong class='author-self'>Hao Chen</strong>, Jiaze Wang, Ziyu Guo, Jinpeng Li, Donghao Zhou, Bian Wu, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>BMVC 2024</strong>"
     pdf: https://arxiv.org/pdf/2401.11847
 
   - title: "Traj-mae: Masked autoencoders for trajectory prediction"
-    image: /assets/img/publications/traj-mae.webp
-    image_width: 960
-    image_height: 298
-    image_alt: "Traj-MAE masked autoencoder trajectory prediction framework."
+    image: /assets/img/publications/traj-mae-method.webp
+    image_width: 1440
+    image_height: 438
+    image_column_width: 42
+    image_alt: "Traj-MAE trajectory and map encoder pretraining, fine-tuning and inference framework."
+    image_source: "https://jiazewang.com/projects/iccv23mae/teaser.png"
+    image_figure: "Figure 2"
     authors: "<strong class='author-self'>Hao Chen</strong>, Jiaze Wang, Kun Shao, Furui Liu, Jianye Hao, Chenyong Guan, Guangyong Chen, Pheng-Ann Heng"
     conference: "<strong class='publication-venue'>ICCV 2023</strong>"
     pdf: https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_Traj-MAE_Masked_Autoencoders_for_Trajectory_Prediction_ICCV_2023_paper.pdf

@@ -8,9 +8,9 @@
 {% for link in site.data.publications.main -%}
 
 <li>
-  <article class="pub-card">
+  <article class="pub-card" style="--pub-image-width: {{ link.image_column_width | default: 34 }}%;">
     {% if link.image -%}
-    <a class="publication-image" href="{{ link.page | default: link.pdf }}" target="_blank" rel="noopener noreferrer" aria-label="{{ link.title | escape }}">
+    <a class="publication-image" href="{{ link.image | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="View method figure for {{ link.title | escape }}">
       <img src="{{ link.image | relative_url }}" alt="{{ link.image_alt | escape }}" width="{{ link.image_width }}" height="{{ link.image_height }}" loading="lazy" decoding="async">
     </a>
     {% endif -%}
